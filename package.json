@@ -29,6 +29,7 @@
   },
   "dependencies": {
     "babel-preset-stage-1": "^6.1.18",
+    "growl": "^1.10.0",
     "lodash": "^4.17.13",
     "lodash-es": "^4.17.14",
     "react": "^0.14.9",
