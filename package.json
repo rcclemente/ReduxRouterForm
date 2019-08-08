@@ -29,7 +29,7 @@
   },
   "dependencies": {
     "babel-preset-stage-1": "^6.1.18",
-    "lodash": ">=4.17.11",
+    "lodash": "^4.17.13",
     "react": "^0.14.9",
     "react-dom": "^0.14.9",
     "react-redux": "4.3.0",
