@@ -33,7 +33,7 @@
     "growl": "^1.10.0",
     "lodash": "^4.17.13",
     "lodash-es": "^4.17.14",
-    "minimist": "^0.2.1",
+    "minimist": "^1.2.3",
     "react": "^0.14.9",
     "react-dom": "^0.14.9",
     "react-redux": "4.3.0",
